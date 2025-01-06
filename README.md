@@ -1,2 +1,2 @@
 # Hidden_markov_model_mnist
-I tried to implement HMM for image classification.
+Developed a Hidden Markov Model (HMM) to classify handwritten digits from the MNIST dataset. The project involved transforming pixel data into sequential observations and implementing HMM components, including forward-backward algorithms and Viterbi decoding, to enable sequence-based classification. Achieved meaningful insights into the application of HMMs for non-traditional sequence data.
